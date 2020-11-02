@@ -1,0 +1,2 @@
+# amplyapp
+practice aws
